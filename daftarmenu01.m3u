@@ -237,8 +237,10 @@ http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1446.ts
 http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1447.ts
 #EXTINF:-1,AR: Bein Sports 12 HD
 http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1448.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17407.ts
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV HD
+http://72.76.39.230:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVRI Sport-HD
 http://rr2.dens.tv/s/s48/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",SONY ESPN HD
