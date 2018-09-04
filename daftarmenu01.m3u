@@ -126,18 +126,22 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 http://rr.dens.tv/h/h14/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (Arab)
 http://3mb.top:8000/live/BRAVEORANG/SnooperSe88kZA/16.ts
-#EXTINF:-1 group-title="Movies",FOX MOVIES 2
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX MOVIES 2
 http://210.210.155.35/session/924b0088-3b33-11e8-ba57-c81f66f89318/uq2663/h/h14/index1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://rr.dens.tv/h/h16/index2.m3u8
-#EXTINF:-1 group-title="Movies",FOX FAMILY MOVIES
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX FAMILY MOVIES
 http://210.210.155.35/session/d17e0d7c-3507-11e8-84e2-c81f66f89318/uq2663/h/h16/index1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
 http://rr.dens.tv/h/h15/index2.m3u8
-#EXTINF:-1 group-title="Movies",FOX ACTION MOVIES
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX ACTION MOVIES
 http://210.210.155.35/session/600f6dba-3508-11e8-999b-c81f66f89318/uq2663/h/h15/index1.m3u8
-#EXTINF:-1,MYHD-Fox_Action_HD
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fox Action HD (Arabic)
 http://3mb.top:8000/live/BRAVEORANG/SnooperSe88kZA/137.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
+http://3mb.top:8000/live/BRAVEORANG/SnooperSe88kZA/88.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO HD CZ
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14275.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",AVAVA DIAMOND
 http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",BLACK DIAMOND
