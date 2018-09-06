@@ -43,15 +43,17 @@ http://rr2.dens.tv/s/s11/index2.m3u8
 http://122.248.32.234:1935/ch2/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
-http://103.242.13.90:5555/udp/239.4.1.52:10000
+http://izgemma.ddns.net:8000/live/test/test/32933.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
-http://main-a.for-our.info:8081/tv11//disney/playlist.m3u8
+http://izgemma.ddns.net:8000/live/test/test/12652.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
+http://izgemma.ddns.net:8000/live/test/test/12651.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
-http://main-a.for-our.info:8081/tv11/disneyxd/playlist.m3u8
+http://izgemma.ddns.net:8000/live/test/test/11381.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Club
 http://main-a.for-our.info:8081/tv1/ch17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
-http://main-a.for-our.info:8081/tv1/ch18.m3u8
+http://izgemma.ddns.net:8000/live/test/test/32934.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",KIDS CHANNEL
 http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BIZNET KIDS
@@ -70,6 +72,8 @@ http://rr2.dens.tv/s/s30/index2.m3u8
 http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BABY TV 
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6694.ts 
+#EXTINF:-1,Cbeebies
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
 
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
