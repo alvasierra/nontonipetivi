@@ -33,8 +33,6 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local TV",MNCTV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Local TV",MNCTV 2
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_small1.png" group-title="Local TV",JAKTV
 http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/3221225586/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_daaitv_small1.png" group-title="Local TV",DAAI TV
