@@ -43,7 +43,7 @@ http://rr2.dens.tv/s/s11/index2.m3u8
 http://122.248.32.234:1935/ch2/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
-http://izgemma.ddns.net:8000/live/test/test/32933.m3u8
+http://151.80.22.22:9300/live/Lami/Lami2018/284.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
 http://izgemma.ddns.net:8000/live/test/test/12652.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
@@ -58,10 +58,6 @@ http://izgemma.ddns.net:8000/live/test/test/32934.m3u8
 http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
-#EXTINF:-1 tvg-logo="" group-title="Kids",TRUE SPARK JUMP
-http://main-a.for-our.info:8081/tv11/sparkjump/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",TRUE SPARK PLAY
-http://main-a.for-our.info:8081/tv11/sparkplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",TOONMAX TV
 http://rr2.dens.tv/s/s37/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Da Vinci
