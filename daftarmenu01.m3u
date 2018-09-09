@@ -42,6 +42,9 @@ http://rr2.dens.tv/s/s11/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jtv_small1.png" group-title="Local TV",JTV
 http://122.248.32.234:1935/ch2/myStream/live.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local TV",ElshintaTV
+http://rr2.dens.tv/s/s10/index2.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://151.80.22.22:9300/live/Lami/Lami2018/284.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
@@ -158,7 +161,7 @@ http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",ABC
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Sci-Fi
+#EXTINF:-1 tvg-logo="" group-title="Movies",SFI
 http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Movies
 http://rr2.dens.tv/s/s33/index2.m3u8
@@ -347,6 +350,8 @@ http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",SALINGSAPA
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal 2",InTV
+http://rr2.dens.tv/s/s46/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movie 2",DIAMOND TV
 http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
@@ -362,6 +367,7 @@ http://wowza60.indostreamserver.com:1935/bdti/live/chunklist_w506571388.m3u8
 http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie 2",WHITE DIAMOND
 http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Kids 2",KIDS DIAMOND
 http://wowza60.indostreamserver.com:1935/kids/live/chunklist_w774404883.m3u8
