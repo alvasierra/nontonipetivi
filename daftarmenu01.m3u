@@ -48,11 +48,11 @@ http://rr2.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
-http://izgemma.ddns.net:8000/live/test/test/12652.m3u8
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/8572.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
-http://izgemma.ddns.net:8000/live/test/test/12651.m3u8
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23124.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
-http://izgemma.ddns.net:8000/live/test/test/11381.m3u8
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23123.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Club
 http://main-a.for-our.info:8081/tv1/ch17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
@@ -72,7 +72,7 @@ http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BABY TV 
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6694.ts 
 #EXTINF:-1,Cbeebies
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23125.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
@@ -128,19 +128,23 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
 http://rr.dens.tv/h/h14/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (Alt)
-http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/66.ts
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/34408.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX MOVIES 2
 http://210.210.155.35/session/924b0088-3b33-11e8-ba57-c81f66f89318/uq2663/h/h14/index1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://rr.dens.tv/h/h16/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX FAMILY MOVIES
 http://210.210.155.35/session/d17e0d7c-3507-11e8-84e2-c81f66f89318/uq2663/h/h16/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX FAMILY MOVIES 3
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/34405.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
 http://rr.dens.tv/h/h15/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX ACTION MOVIES
 http://210.210.155.35/session/600f6dba-3508-11e8-999b-c81f66f89318/uq2663/h/h15/index1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Fox Action HD (Arabic)
 http://3mb.top:8000/live/BRAVEORANG/SnooperSe88kZA/137.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX ACTION MOVIES 4
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/34412.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (alt)
@@ -318,6 +322,10 @@ http://103.242.13.90:5555/udp/239.4.1.20:10000
 http://rr.dens.tv/h/h11/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",NatGeo Wild
 http://rr.dens.tv/h/h12/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NAT GEO WILD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3323.ts
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NATIONAL GEOGRAPHY HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/8610.ts
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",CGTN Documentary
 http://rr2.dens.tv/s/s20/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",DIAMOND EARTH
