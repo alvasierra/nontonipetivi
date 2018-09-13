@@ -220,30 +220,7 @@ http://rr.dens.tv/h/h19/index2.m3u8
 http://rr.dens.tv/h/h20/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS 3
 http://rr.dens.tv/h/h21/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 1 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1437.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 2 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1438.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 3 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1439.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 4 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1440.ts
-#EXTINF:-1,AR: Bein Sports 5 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1441.ts
-#EXTINF:-1,AR: Bein Sports 6 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1442.ts
-#EXTINF:-1,AR: Bein Sports 7 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1443.ts
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1444.ts
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1445.ts
-#EXTINF:-1,AR: Bein Sports 10 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1446.ts
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1447.ts
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1448.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17407.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV HD
