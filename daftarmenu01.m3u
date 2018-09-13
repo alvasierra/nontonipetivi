@@ -46,7 +46,7 @@ http://122.248.32.234:1935/ch2/myStream/live.m3u8
 http://rr2.dens.tv/s/s10/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
-http://151.80.22.22:9300/live/Lami/Lami2018/284.ts
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
 http://izgemma.ddns.net:8000/live/test/test/12652.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
@@ -143,8 +143,14 @@ http://210.210.155.35/session/600f6dba-3508-11e8-999b-c81f66f89318/uq2663/h/h15/
 http://3mb.top:8000/live/BRAVEORANG/SnooperSe88kZA/137.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO HD (alt)
-http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3015.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO (alt)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="USA",HBO 2 (Dual)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="USA",HBO Hits (Asia)
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax HD (alt)
 http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1781.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",DIAMOND TV
@@ -329,6 +335,9 @@ http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",InTV
 http://rr2.dens.tv/s/s46/index2.m3u8
+#EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="INDONESIA",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Movie 2",DIAMOND TV
 http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
