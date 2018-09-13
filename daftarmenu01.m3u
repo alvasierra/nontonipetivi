@@ -157,6 +157,8 @@ http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1781.
 http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",AVAVA DIAMOND
 http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie 2",AVAVA BOLLYWOOD DIAMOND
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",BLACK DIAMOND
 http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",WHITE DIAMOND
@@ -258,6 +260,32 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:-1 tvg-logo="" group-title="Sports",MOTOR SPORT
 http://45.58.62.92:8084
 
+#EXTINF:-1,BEINSP: SPORTS 1 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/17132.ts
+#EXTINF:-1,BEINSP: SPORTS 2 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/17131.ts
+#EXTINF:-1,BEINSP: SPORTS 3 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3569.ts
+#EXTINF:-1,BEINSP: SPORTS 4 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3570.ts
+#EXTINF:-1,BEINSP: SPORTS 5 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3571.ts
+#EXTINF:-1,BEINSP: SPORTS 6 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3572.ts
+#EXTINF:-1,BEINSP: SPORTS 7 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3573.ts
+#EXTINF:-1,BEINSP: SPORTS 8 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3574.ts
+#EXTINF:-1,BEINSP: SPORTS 9 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3575.ts
+#EXTINF:-1,BEINSP: SPORTS 10 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/3576.ts
+#EXTINF:-1,BEINSP: SPORTS 11 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/10543.ts
+#EXTINF:-1,BEINSP: SPORTS 12 HD
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/10541.ts
+
+
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
 
@@ -337,22 +365,6 @@ http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 http://rr2.dens.tv/s/s46/index2.m3u8
 #EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="INDONESIA",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",DIAMOND TV
-http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",AVAVA BOLLYWOOD DIAMOND
-http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",AVAVA DIAMOND
-http://wowza60.indostreamserver.com:1935/adti/live/chunklist_w502236284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",GOLD DIAMOND
-http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",BLACK DIAMOND
-http://wowza60.indostreamserver.com:1935/bdti/live/chunklist_w506571388.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",RED DIAMOND
-http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",WHITE DIAMOND
-http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Kids 2",KIDS DIAMOND
