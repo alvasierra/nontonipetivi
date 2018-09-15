@@ -271,6 +271,30 @@ http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/93.ts
 #EXTINF:-1 tvg-logo="" group-title="Sport 2",Sky Sport 24HD
 http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/11.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 1HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1494.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 2HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1493.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 3HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1492.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 4HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1491.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 5HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1490.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 6HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1489.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 7HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1488.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 8HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1487.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 9HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1486.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 10HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1485.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 11HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1484.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport 2",beINSPORTS 12HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1483.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
