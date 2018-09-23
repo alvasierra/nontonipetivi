@@ -19,6 +19,8 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 http://rr2.dens.tv/s/s09/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV
 http://rr.dens.tv/h/h05/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV 2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_small1.png" group-title="Local TV",RTV
 http://rr2.dens.tv/s/s12/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local TV",RCTI
@@ -301,29 +303,7 @@ http://osniptv.homeip.net:25461/live/dokpal/cisco2006/183.ts
 http://osniptv.homeip.net:25461/live/dokpal/cisco2006/184.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 1HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1494.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 2HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1493.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 3HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1492.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 4HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1491.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 5HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1490.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 6HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1489.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 7HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1488.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 8HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1487.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 9HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1486.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 10HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1485.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",BeINSPORTS 11HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1484.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport 2",beINSPORTS 12HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1483.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
