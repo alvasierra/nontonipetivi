@@ -129,8 +129,10 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
 http://rr.dens.tv/h/h14/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (Alt)
-http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/34408.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Movies (Arab)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX MOVIES 2
 http://210.210.155.35/session/924b0088-3b33-11e8-ba57-c81f66f89318/uq2663/h/h14/index1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
