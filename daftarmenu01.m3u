@@ -129,26 +129,16 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
 http://rr.dens.tv/h/h14/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Movies
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Movies (Arab)
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX MOVIES 2
-http://210.210.155.35/session/924b0088-3b33-11e8-ba57-c81f66f89318/uq2663/h/h14/index1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://rr.dens.tv/h/h16/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX FAMILY MOVIES
-http://210.210.155.35/session/d17e0d7c-3507-11e8-84e2-c81f66f89318/uq2663/h/h16/index1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX FAMILY MOVIES 3
-http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/34405.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
 http://rr.dens.tv/h/h15/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX ACTION MOVIES
-http://210.210.155.35/session/600f6dba-3508-11e8-999b-c81f66f89318/uq2663/h/h15/index1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Fox Action HD (Arabic)
-http://3mb.top:8000/live/BRAVEORANG/SnooperSe88kZA/137.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX ACTION MOVIES 4
-http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/34412.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (alt)
