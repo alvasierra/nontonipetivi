@@ -228,9 +228,9 @@ http://rr.dens.tv/h/h20/index2.m3u8
 http://rr.dens.tv/h/h21/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17407.ts
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2779.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV HD
-http://72.76.39.230:8000/play/a00e/index.m3u8
+http://ip24.ip-145-239-108.eu:6500/live/fabo6nXpuq/Is3PISvHp7/8309.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVRI Sport-HD
 http://rr2.dens.tv/s/s48/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",SONY ESPN HD
