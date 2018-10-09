@@ -78,13 +78,15 @@ http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23
 
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
-http://rr.dens.tv/h/h04/index2.m3u8
+http://103.233.241.161:8888/live/d3003/3003/95.ts
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
 http://rr.dens.tv/h/h09/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
 http://rr.dens.tv/h/h03/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
-http://cdn2.bear-tv.com/freetv/TOT_FX_HD/chunks.m3u8
+http://103.233.241.161:8888/live/d3003/3003/95.ts
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",DIVA
+http://103.233.241.161:8888/live/d3003/3003/95.ts
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",K+
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",E!
@@ -138,23 +140,31 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
-http://rr.dens.tv/h/h16/index2.m3u8
+http://103.233.241.161:8888/live/d3003/3003/100.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies 1
 http://rr.dens.tv/h/h15/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies 2
 http://103.233.241.161:8888/live/d3003/3003/99.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
+http://103.233.241.161:8888/live/d3003/3003/210.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (alt)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
+http://103.233.241.161:8888/live/d3003/3003/591.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits (Asia)
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
+http://103.233.241.161:8888/live/d3003/3003/592.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax HD (alt)
-http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1781.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
+http://103.233.241.161:8888/live/d3003/3003/796.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",Blue Ant Extreme
+http://103.233.241.161:8888/live/d3003/3003/811.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",DIAMOND TV
 http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",AVAVA DIAMOND
