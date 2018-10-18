@@ -48,7 +48,7 @@ http://rr2.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
-http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/8572.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/86.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
 http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23124.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
@@ -78,7 +78,7 @@ http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23
 
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
-http://103.233.241.161:8888/live/d3003/3003/95.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/12.ts
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
 http://rr.dens.tv/h/h09/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
@@ -94,7 +94,7 @@ http://vapi.vaders.tv/play/39814.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Lifetime
 http://139.99.38.2:443/hd-lifetime_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Warner TV
-http://main-a.for-our.info:8081/tv11/wbtv/playlist.m3u8
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/162.ts
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",SBS-in
 http://rr.dens.tv/h/h28/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",KBS World
@@ -132,7 +132,7 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies 1
 http://rr.dens.tv/h/h14/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies 2
-http://103.233.241.161:8888/live/d3003/3003/98.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/82.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Movies
@@ -140,51 +140,43 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
-http://103.233.241.161:8888/live/d3003/3003/100.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/40.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies 1
 http://rr.dens.tv/h/h15/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies 2
-http://103.233.241.161:8888/live/d3003/3003/99.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/85.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://103.233.241.161:8888/live/d3003/3003/210.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/213.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (alt)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
-http://103.233.241.161:8888/live/d3003/3003/591.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/3.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits (Asia)
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
-http://103.233.241.161:8888/live/d3003/3003/592.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/4.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
-http://103.233.241.161:8888/live/d3003/3003/796.ts
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/7.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Blue Ant Extreme
-http://103.233.241.161:8888/live/d3003/3003/811.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies",DIAMOND TV
-http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",AVAVA DIAMOND
-http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie 2",AVAVA BOLLYWOOD DIAMOND
-http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",BLACK DIAMOND
-http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",WHITE DIAMOND
-http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",GOLD DIAMOND
-http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",RED DIAMOND
-http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/9.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movies",&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg&w=620&h=350&zc=1&q=100" group-title="Movies",&PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",ABC
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",SFI
 http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Movies
 http://rr2.dens.tv/s/s33/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Classic
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/94.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Z Bioskop
 http://rr2.dens.tv/s/s32/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Thrill
@@ -267,37 +259,29 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8?textatu?iptv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",REAL MADRID FC
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?iptv.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORT
-http://45.58.62.92:8080
+#EXTIN#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="https://static.businessinsider.com/image/520cea5f6bb3f77d30000010/image.jpg" group-title="Sports",Fox Sports 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="https://blogtvcinema.files.wordpress.com/2014/01/foxsports2.jpg" group-title="Sports",Fox Sports 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="Sports",Fox Sports 3
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/57.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MOTOR SPORT
 http://45.58.62.92:8084
 
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21817.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21808.ts
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21807.ts
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21806.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21816.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21815.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21814.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21813.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21812.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21811.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21810.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://54.37.188.76:80/live/new4tec/new4tec/21809.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1" tvg-logo="http://3.bp.blogspot.com/-OWIrdp2PyKY/VDC4Y56owGI/AAAAAAAADQo/x8kiZ7cCGPQ/s1600/bein%2Bspot%2B1.png" group-title="Sports",Bein Sports 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2" tvg-logo="http://3.bp.blogspot.com/-D3YVr-YAE7o/VMecL5sNNKI/AAAAAAAAATQ/a3lcPoLCggA/s1600/bein2.png" group-title="Sports",Bein Sports 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 3" tvg-logo="http://allfootballvideo.com/images/channel-logo/Bein-Sports-3-300x195.jpg" group-title="Sports",Bein Sports 3
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 4" tvg-logo="https://2.bp.blogspot.com/-eMBTRbigu6o/WZRSvc_pJlI/AAAAAAAAAJM/FvYCgWIJjlEALjWeaKW7HzIUzH1LaIBYwCPcBGAYYCw/s1600/bein%2B4.gif" group-title="Sports",Bein Sports 4
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 11" tvg-logo="https://i.ytimg.com/vi/rqxgvsZFej4/maxresdefault.jpg" group-title="Sports",Bein Sports 11
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 12" tvg-logo="http://1.bp.blogspot.com/-0ppF3GGbpoI/VSsX_NNhXFI/AAAAAAAAAag/Rxv6ZS-PLDE/s1600/12.png" group-title="Sports",Bein Sports 12
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/189.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
