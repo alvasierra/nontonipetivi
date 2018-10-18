@@ -163,7 +163,7 @@ http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/4.ts
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
 http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/7.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Movies",Blue Ant Extreme
 http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/9.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movies",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
