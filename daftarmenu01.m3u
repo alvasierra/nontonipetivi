@@ -131,8 +131,6 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies 1
 http://rr.dens.tv/h/h14/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies 2
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/82.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Movies
@@ -140,15 +138,13 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/40.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies 1
 http://rr.dens.tv/h/h15/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies 2
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/85.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/213.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (alt)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
@@ -158,13 +154,13 @@ http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/3.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits (Asia)
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/4.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/7.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Movies",Blue Ant Extreme
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/9.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movies",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg&w=620&h=350&zc=1&q=100" group-title="Movies",&PRIVE HD
