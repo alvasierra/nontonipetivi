@@ -58,7 +58,7 @@ http://cliente.iptvdosogro.net:8585/live/airerdhq/Lionricky1/12635.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Club
 http://main-a.for-our.info:8081/tv1/ch17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
-http://izgemma.ddns.net:8000/live/test/test/32934.m3u8
+http://213.59.128.162:9999/play/Boomerang
 #EXTINF:-1 tvg-logo="" group-title="Kids",KIDS CHANNEL
 http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BIZNET KIDS
