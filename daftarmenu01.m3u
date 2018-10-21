@@ -301,9 +301,9 @@ http://103.242.13.90:5555/udp/239.4.2.19:10000
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery World HD
 http://103.242.13.90:5555/udp/239.4.1.20:10000
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",National Geographic
-http://rr.dens.tv/h/h11/index2.m3u8
+http://178.128.101.58:8090/live/salome/wVTCNmvZzv/77.ts
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",NatGeo Wild
-http://rr.dens.tv/h/h12/index2.m3u8
+http://178.128.101.58:8090/live/salome/wVTCNmvZzv/78.ts
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NAT GEO WILD
 http://ipsatpro.com:8080/live/Jorge/123456/498.ts
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NATIONAL GEOGRAPHY HD
