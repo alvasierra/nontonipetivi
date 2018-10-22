@@ -247,29 +247,29 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?ipt
 #EXTINF:-1 tvg-logo="" group-title="Sports",MOTOR SPORT
 http://45.58.62.92:8084
 
-#EXTINF:-1, group-title="SPORTS",BEIN 1
-http://163.172.86.57:3135/nBein/1/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 2
-http://163.172.86.57:3135/nBein/2/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 3
-http://163.172.86.57:3135/nBein/3/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 4
-http://163.172.86.57:3135/nBein/4/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 5
-http://163.172.86.57:3135/nBein/5/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 6
-http://163.172.86.57:3135/nBein/6/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 7
-http://163.172.86.57:3135/nBein/7/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 8
-http://163.172.86.57:3135/nBein/8/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 9
-http://163.172.86.57:3135/nBein/9/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 10
+#EXTINF:-1, group-title="BEIN",BEIN 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2155.ts
+#EXTINF:-1, group-title="BEIN",BEIN 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2156.ts
+#EXTINF:-1, group-title="BEIN",BEIN 3
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2157.ts
+#EXTINF:-1, group-title="BEIN",BEIN 4
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2158.ts
+#EXTINF:-1, group-title="BEIN",BEIN 5
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2159.ts
+#EXTINF:-1, group-title="BEIN",BEIN 6
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2160.ts
+#EXTINF:-1, group-title="BEIN",BEIN 7
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2161.ts
+#EXTINF:-1, group-title="BEIN",BEIN 8
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2161.ts
+#EXTINF:-1, group-title="BEIN",BEIN 9
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2163.ts
+#EXTINF:-1, group-title="BEIN",BEIN 10
 http://163.172.86.57:3135/nBein/10/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 11
+#EXTINF:-1, group-title="BEIN",BEIN 11
 http://163.172.86.57:3135/nBein/11/index.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 12
+#EXTINF:-1, group-title="BEIN",BEIN 12
 http://163.172.86.57:3135/nBein/12/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
@@ -279,7 +279,7 @@ http://103.242.13.90:5555/udp/239.4.1.51:10000
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Al Quran Al Kareem
 http://rr2.dens.tv/s/s28/index2.m3u8
 #EXTINF:-1,MEDINA LIVE
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/632.ts
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",RODJA TV
 http://rr2.dens.tv/s/s14/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",TAHFIDZ TV
