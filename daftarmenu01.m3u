@@ -23,11 +23,13 @@ http://rr.dens.tv/h/h05/index2.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_small1.png" group-title="Local TV",RTV
 http://rr2.dens.tv/s/s12/index2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI
-http://ez-tracker.net/tv/RCTI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 1
+https://stream.sindonews.net/live/rctioke.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 2
 http://ez-tracker.net/tv/RCTI_2
-#EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV
+#EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 1
+
+#EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 2
 http://ez-tracker.net/tv/GTV
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_small1.png" group-title="Local TV",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
