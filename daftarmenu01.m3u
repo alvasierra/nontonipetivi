@@ -26,15 +26,15 @@ http://rr2.dens.tv/s/s12/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 1
 https://stream.sindonews.net/live/rctioke.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 2
-http://ez-tracker.net/tv/RCTI_2
+http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 1
-
+http://edge.okezone.com/live/globaltv.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 2
 http://ez-tracker.net/tv/GTV
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_small1.png" group-title="Local TV",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/logo.png" group-title="Local TV",MNCTV
-http://ez-tracker.net/tv/MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_small1.png" group-title="Local TV",JAKTV
 http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/3221225586/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_daaitv_small1.png" group-title="Local TV",DAAI TV
@@ -167,6 +167,8 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg&w=620&h=350&zc=1&q=100" group-title="Movies",&PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",&PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",ABC
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",SFI
