@@ -173,7 +173,7 @@ http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",ABC
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",SFI
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/saluran_film_indonesia.png" group-title="Movies",SFI
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w904697901.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Movies
 http://rr2.dens.tv/s/s33/index2.m3u8
@@ -181,7 +181,7 @@ http://rr2.dens.tv/s/s33/index2.m3u8
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20959.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Z Bioskop
 http://rr2.dens.tv/s/s32/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Thrill
+#EXTINF:-1 tvg-logo="https://tube.hk/images/tv_cache/c/400x400_36thrill.jpg" group-title="Movies",Thrill
 http://rr2.dens.tv/s/s34/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",My Cinema
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -212,14 +212,16 @@ http://210.210.155.35/session/a7e82f28-a7bd-11e8-a194-c81f66f89318/qwr9ew/s/s11/
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",I News
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/7/7a/20180424011328%21KOMPAS_TV_%282017%29.png" group-title="News",KOMPAS TV
 https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live-0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",BERITA SATU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/BeritaSatu.png/220px-BeritaSatu.png" group-title="News",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",BERITA SATU WORLD
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/bb/berita_satu_world_id.png" group-title="News",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",JAWA POS
 http://122.248.32.234:1935/ch6/myStream/chunklist_w1947809094.m3u8
+#EXTINF:-1 tvg-logo="https://jakartaglobe.id/assets/jg-tv-logo-2.png" group-title="News",JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",BLOOMBERG
