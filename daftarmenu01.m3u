@@ -149,7 +149,7 @@ http://rr.dens.tv/h/h15/index2.m3u8
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asian)
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asia)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
@@ -173,7 +173,7 @@ http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",ABC
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/saluran_film_indonesia.png" group-title="Movies",SFI
+#EXTINF:-1 tvg-logo="" group-title="Movies",SFI
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w904697901.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Movies
 http://rr2.dens.tv/s/s33/index2.m3u8
