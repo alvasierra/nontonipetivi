@@ -18,7 +18,7 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_small1.png" group-title="Local TV",KOMPAS TV
 http://rr2.dens.tv/s/s09/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV
-http://rr.dens.tv/h/h05/index2.m3u8
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV 2
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_small1.png" group-title="Local TV",RTV
@@ -30,13 +30,13 @@ http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 1
 http://edge.okezone.com/live/globaltv.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 2
-http://ez-tracker.net/tv/GTV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_small1.png" group-title="Local TV",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/logo.png" group-title="Local TV",MNCTV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_small1.png" group-title="Local TV",JAKTV
-http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/3221225586/index.m3u8
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_daaitv_small1.png" group-title="Local TV",DAAI TV
 http://rr2.dens.tv/s/s13/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_small1.png" group-title="Local TV",TVRI
@@ -71,6 +71,8 @@ http://rr2.dens.tv/s/s37/index2.m3u8
 http://rr.dens.tv/h/h01/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",MY KIDS
 http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",MY KIDS VOD
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Duck TV
 http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BABY TV 
@@ -172,7 +174,7 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",ABC
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",SFI
-http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w904697901.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Movies
 http://rr2.dens.tv/s/s33/index2.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:MGM_Channel.png" group-title="Movies",MGM
@@ -181,7 +183,8 @@ http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20959.m3u8
 http://rr2.dens.tv/s/s32/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Thrill
 http://rr2.dens.tv/s/s34/index2.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",My Cinema
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -306,8 +309,8 @@ http://103.242.13.90:5555/udp/239.4.2.19:10000
 http://103.242.13.90:5555/udp/239.4.1.20:10000
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",National Geographic
 http://178.128.101.58:8090/live/salome/wVTCNmvZzv/77.ts
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",NatGeo Wild
-http://178.128.101.58:8090/live/salome/wVTCNmvZzv/78.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="Knowledge",NatGeo Wild
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NAT GEO WILD
 http://ipsatpro.com:8080/live/Jorge/123456/498.ts
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NATIONAL GEOGRAPHY HD
