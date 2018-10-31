@@ -50,11 +50,11 @@ http://rr2.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/86.ts
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/124.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
-http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23124.ts
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/123.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
-http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23123.ts
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/122.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon
 http://cliente.iptvdosogro.net:8585/live/airerdhq/Lionricky1/12635.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Club
@@ -137,7 +137,7 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 http://rr.dens.tv/h/h14/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Movies
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Cinema Movies
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
@@ -148,7 +148,7 @@ http://rr.dens.tv/h/h15/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/99.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asia)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
