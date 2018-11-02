@@ -96,7 +96,7 @@ http://vapi.vaders.tv/play/39814.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Lifetime
 http://139.99.38.2:443/hd-lifetime_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Warner TV
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/162.ts
+https://mikho.org/live/hls/demo/warnertv
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",SBS-in
 http://rr.dens.tv/h/h28/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",KBS World
@@ -146,7 +146,7 @@ http://rr.dens.tv/h/h15/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://210.210.155.35/uq2663/h/h231/index2.m3u8
+http://210.210.155.35/uq2663/h/h231/index2.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asia)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
@@ -289,14 +289,6 @@ http://103.242.13.90:5555/udp/239.4.1.51:10000
 http://rr2.dens.tv/s/s28/index2.m3u8
 #EXTINF:-1,MEDINA LIVE
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",RODJA TV
-http://rr2.dens.tv/s/s14/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",TAHFIDZ TV
-rtmp://119.235.249.58:1935/tahfidztv/live
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",TV MU
-rtmp://118.97.183.222:1935/discover/muhammadiyahtv
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",DMI
-http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",TV 9
 http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Saling Sapa TV
@@ -304,7 +296,7 @@ http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",UCHANNEL
 http://rr2.dens.tv/s/s41/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Channel
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery World HD
