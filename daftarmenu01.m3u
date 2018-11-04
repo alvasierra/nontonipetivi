@@ -50,9 +50,9 @@ http://rr2.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
-http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/124.ts
+http://rb-group-server.com:25461/tastan/tastan/3752
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
-http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/123.ts
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
 http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/122.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon
@@ -84,7 +84,7 @@ http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/12.ts
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
 http://rr.dens.tv/h/h09/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
-http://rr.dens.tv/h/h03/index2.m3u8
+http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
 http://103.233.241.161:8888/live/d3003/3003/95.ts
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",DIVA
@@ -114,7 +114,7 @@ http://sg.doohdbox.com:8080/tcm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",K DRAMA
 http://rr2.dens.tv/s/s42/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Animax
-http://rr.dens.tv/h/h18/index2.m3u8
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AniPlus
 http://rr.dens.tv/h/h02/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",NHK World Premium
@@ -139,9 +139,9 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies 1
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies (arab)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
 http://rr.dens.tv/h/h15/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
@@ -236,11 +236,11 @@ http://iptvthai.webhop.biz:443/hd-fightsports_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Golf Channel
 http://iptvthai.webhop.biz:443/hd-golf_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS
-http://rr.dens.tv/h/h19/index2.m3u8
+http://180.183.53.229:9981/stream/channelid/654276182?ticket=c3324fbf0693baced85e28766171b1b024266e22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS 2
-http://rr.dens.tv/h/h20/index2.m3u8
+http://180.183.53.229:9981/stream/channelid/1067136145?ticket=6c2776dd5d1f13e7443425dcc4e22035d11b457c&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS 3
-http://rr.dens.tv/h/h21/index2.m3u8
+http://180.183.53.229:9981/stream/channelid/1199508432?ticket=131ea070b271d292570eea770d4dc17568293c5c&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2779.ts
@@ -363,7 +363,7 @@ http://wowza60.indostreamserver.com:1935/kids/live/chunklist_w774404883.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids 2",ANIPLUS
 http://210.210.155.35/session/246832f6-a7f4-11e8-94b1-b82a72d63267/uq2663/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids 2",ANIMAX
-http://210.210.155.35/session/cb244aa0-a7f2-11e8-a249-b82a72d63267/uq2663/h/h18/02.m3u8
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tvislam.id/wp-content/uploads/2017/12/AHSAN-TV-Logo-1-300x171.png" group-title="SunnahTV",AhsanTV
 http://iptv.didanurwanda.com/channel/live/ahsantv.m3u8
