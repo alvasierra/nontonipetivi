@@ -305,15 +305,8 @@ http://103.242.13.90:5555/udp/239.4.1.20:10000
 http://178.128.101.58:8090/live/salome/wVTCNmvZzv/77.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="Knowledge",NatGeo Wild
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NAT GEO WILD
-http://ipsatpro.com:8080/live/Jorge/123456/498.ts
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",UK: NATIONAL GEOGRAPHY HD
-http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/8610.ts
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",CGTN Documentary
 http://rr2.dens.tv/s/s20/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",DIAMOND EARTH
-http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Music",HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -335,17 +328,7 @@ http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",EVARINA TV
 rtmp://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",RRI NET
-http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal 2",NU CHANNEL
-http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal 2",DMI
-http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal 2",TABALONG
-http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal 2",KITANESIA
-http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal 2",INSPIRA
-http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",TV PARLEMENT
 http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",DUTA TV
