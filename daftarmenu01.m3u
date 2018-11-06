@@ -159,16 +159,10 @@ http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax Moremax
-http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/135.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
-http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/136.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax Thrillermax
-http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/134.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",WOWOW Movies
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1 tvg-logo="" group-title="Movies",Hallmark Movies & Mysteries
 http://23.237.22.82:8086/udp/127.0.0.1:56067
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Movies",Blue Ant Extreme
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movies",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg&w=620&h=350&zc=1&q=100" group-title="Movies",&PRIVE HD
@@ -179,6 +173,8 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",SFI
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w904697901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Jgo
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Movies
 http://rr2.dens.tv/s/s33/index2.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:MGM_Channel.png" group-title="Movies",MGM
@@ -331,6 +327,8 @@ rtmp://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",TV PARLEMENT
 http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal 2",Kitanesia
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",DUTA TV
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal 2",SALINGSAPA
