@@ -262,26 +262,28 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?ipt
 #EXTINF:-1 tvg-logo="" group-title="Sports",MOTOR SPORT
 http://45.58.62.92:8084
 
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD1.
-http://rb-group-server.com:25461/live/yassine/yassine/8336.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD2.
-http://rb-group-server.com:25461/live/yassine/yassine/8337.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD3.
-http://rb-group-server.com:25461/live/yassine/yassine/8338.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD4.
-http://rb-group-server.com:25461/live/yassine/yassine/8339.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD5.
-http://rb-group-server.com:25461/live/yassine/yassine/8340.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD6.
-http://rb-group-server.com:25461/live/yassine/yassine/8341.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD7.
-http://rb-group-server.com:25461/live/yassine/yassine/8342.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD8.
-http://rb-group-server.com:25461/live/yassine/yassine/8343.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD9.
-http://rb-group-server.com:25461/live/yassine/yassine/9430.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS HD10.
-http://rb-group-server.com:25461/live/yassine/yassine/9431.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 720P
+http://194.88.107.101:6204/live/ali03/ali03/9022.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 720P
+http://194.88.107.101:6204/live/ali03/ali03/9021.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 720P
+http://194.88.107.101:6204/live/ali03/ali03/9020.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 720P
+http://194.88.107.101:6204/live/ali03/ali03/9019.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 720P
+http://194.88.107.101:6204/live/ali03/ali03/9018.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 720P
+http://194.88.107.101:6204/live/ali03/ali03/9017.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 720P
+http://194.88.107.101:6204/live/ali03/ali03/9016.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 720P
+http://194.88.107.101:6204/live/ali03/ali03/9015.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 720P
+http://194.88.107.101:6204/live/ali03/ali03/9014.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10 720P
+http://194.88.107.101:6204/live/ali03/ali03/9013.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD11 EN 720P
+http://194.88.107.101:6204/live/ali03/ali03/9012.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
