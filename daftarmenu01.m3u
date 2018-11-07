@@ -82,7 +82,7 @@ http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
 http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/12.ts
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
-http://sg.ganteng.stream:8888/Jason/Jason123/9
+http://5.79.87.234:8278/Axn/playlist.m3u8?tid=11025679&tsum=18d1504c17ef3bb591007f61af2ed506
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
@@ -131,8 +131,8 @@ http://rr2.dens.tv/s/s38/index2.m3u8
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies 1
-http://sg.ganteng.stream:8888/live/Jason/Jason123/98.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=13302669&tsum=4bc3e887168938a0680a1e428d99fc72
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Cinema Movies
@@ -142,7 +142,9 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
-http://rr.dens.tv/h/h15/index2.m3u8
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=18165913&tsum=1257310ecdd40cec051e80fecc89de25
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
+http://5.79.87.234:8278/Foxfamily/playlist.m3u8?tid=17030309&tsum=5d5b5b6d5d134a520d7ee4acad2e24cd
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
@@ -157,10 +159,14 @@ http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/3.ts
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=18550821&tsum=1059398a4062a029d0a1719680b55dfc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",WOWOW Movies
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-logo="" group-title="Movies",Blue Ant Extreme
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=15851840&tsum=3b2b75e865aeb67fdd818c0db888ea64
 #EXTINF:-1 tvg-logo="" group-title="Movies",Hallmark Movies & Mysteries
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movies",&FLIX HD
