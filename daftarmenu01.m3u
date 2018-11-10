@@ -245,7 +245,7 @@ http://180.183.53.229:9981/stream/channelid/1067136145?ticket=6c2776dd5d1f13e744
 http://180.183.53.229:9981/stream/channelid/1199508432?ticket=131ea070b271d292570eea770d4dc17568293c5c&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
-http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2779.ts
+http://194.88.107.95:6204/azmir/azmir/6434
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV HD 1
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVRI Sport-HD
@@ -262,28 +262,26 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?ipt
 #EXTINF:-1 tvg-logo="" group-title="Sports",MOTOR SPORT
 http://45.58.62.92:8084
 
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 720P
-http://194.88.107.101:6204/live/ali03/ali03/9022.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 720P
-http://194.88.107.101:6204/live/ali03/ali03/9021.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 720P
-http://194.88.107.101:6204/live/ali03/ali03/9020.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 720P
-http://194.88.107.101:6204/live/ali03/ali03/9019.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 720P
-http://194.88.107.101:6204/live/ali03/ali03/9018.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 720P
-http://194.88.107.101:6204/live/ali03/ali03/9017.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 720P
-http://194.88.107.101:6204/live/ali03/ali03/9016.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 720P
-http://194.88.107.101:6204/live/ali03/ali03/9015.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 720P
-http://194.88.107.101:6204/live/ali03/ali03/9014.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10 720P
-http://194.88.107.101:6204/live/ali03/ali03/9013.ts
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD11 EN 720P
-http://194.88.107.101:6204/live/ali03/ali03/9012.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 
+http://194.88.107.95:6204/azmir/azmir/127
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 
+http://194.88.107.95:6204/azmir/azmir/128
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 
+http://194.88.107.95:6204/azmir/azmir/129
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 
+http://194.88.107.95:6204/azmir/azmir/130
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 
+http://194.88.107.95:6204/azmir/azmir/132
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 
+http://194.88.107.95:6204/azmir/azmir/133
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 
+http://194.88.107.95:6204/azmir/azmir/134
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 
+http://194.88.107.95:6204/azmir/azmir/135
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 
+http://194.88.107.95:6204/azmir/azmir/186
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10 
+http://194.88.107.95:6204/azmir/azmir/187
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
