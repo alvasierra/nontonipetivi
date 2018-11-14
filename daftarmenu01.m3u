@@ -24,9 +24,11 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_small1.png" group-title="Local TV",RTV
 http://rr2.dens.tv/s/s12/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 1
-https://stream.sindonews.net/live/rctioke.m3u8
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 2
 http://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 3
+https://stream.sindonews.net/live/rctioke.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 1
 http://edge.okezone.com/live/globaltv.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 2
@@ -42,7 +44,7 @@ http://rr2.dens.tv/s/s13/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_small1.png" group-title="Local TV",TVRI
 http://rr2.dens.tv/s/s11/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jtv_small1.png" group-title="Local TV",JTV
-http://122.248.32.234:1935/ch2/myStream/live.m3u8
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://elshintatv.co.id/images/elshintatv_logo.png" group-title="Local TV",ElshintaTV
 http://rr2.dens.tv/s/s10/index2.m3u8
