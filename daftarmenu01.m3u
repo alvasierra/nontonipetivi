@@ -76,7 +76,7 @@ http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/
 #EXTINF:-1 tvg-logo="" group-title="Kids",Duck TV
 http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",BABY TV 
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6694.ts 
+http://landiptv.live:8080/EDGARDO/203040/65125
 #EXTINF:-1,Cbeebies
 http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23125.ts
 
@@ -84,7 +84,7 @@ http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
 http://izgemma.ddns.net:8000/office/QazWsxEdc/19632
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
-http://5.79.87.234:8278/Axn/playlist.m3u8?tid=11025679&tsum=18d1504c17ef3bb591007f61af2ed506
+http://landiptv.live:8080/EDGARDO/203040/104943
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
@@ -150,7 +150,7 @@ http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=18165913&tsum=1257310ecdd4
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://5.79.87.234:8278/Foxfamily/playlist.m3u8?tid=17030309&tsum=5d5b5b6d5d134a520d7ee4acad2e24cd
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
-http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2782.ts
+http://landiptv.live:8080/EDGARDO/203040/70287
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
 http://210.210.155.35/uq2663/h/h231/index2.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asia)
