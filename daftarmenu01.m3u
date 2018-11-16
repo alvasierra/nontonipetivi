@@ -134,7 +134,7 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=13302669&tsum=4bc3e887168938a0680a1e428d99fc72
+http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1131.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Cinema Movies
@@ -244,9 +244,9 @@ http://iptvthai.webhop.biz:443/hd-golf_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS
 http://180.183.53.229:9981/stream/channelid/654276182?ticket=c3324fbf0693baced85e28766171b1b024266e22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS 2
-http://180.183.53.229:9981/stream/channelid/1067136145?ticket=6c2776dd5d1f13e7443425dcc4e22035d11b457c&profile=pass
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS 3
-http://180.183.53.229:9981/stream/channelid/1199508432?ticket=131ea070b271d292570eea770d4dc17568293c5c&profile=pass
+http://210.210.155.35/uq2663/h/h21/index1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
 http://194.88.107.95:6204/azmir/azmir/6434
