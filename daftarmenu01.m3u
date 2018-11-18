@@ -239,6 +239,8 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fight Sport
 http://iptvthai.webhop.biz:443/hd-fightsports_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn01.supersoccer.tv/sstv/images/logo.png" group-title="Sports",Super Soccer
+http://210.210.155.35/uq2663/h/h135/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Golf Channel
 http://iptvthai.webhop.biz:443/hd-golf_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS
@@ -267,29 +269,29 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?ipt
 http://45.58.62.92:8084
 
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37774
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4013
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37775
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4014
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37776
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4015
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37777
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4016
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37778
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4017
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 
-http://68.183.106.158:8000/live/7gtPW8cJOD/freeiptvdaily.tv/6.ts
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4018
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37779
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4019
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37780
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4020
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37781
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4021
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10 
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37782
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4022
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD11
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37783
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4023
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD12
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37784
+http://hdliveiptv.mazian.info:8900/FQILwSWp1q/ZDscEYc2qD/4024
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
