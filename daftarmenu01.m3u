@@ -84,7 +84,7 @@ http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
 http://izgemma.ddns.net:8000/office/QazWsxEdc/19632
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
-http://rr1.dens.tv/h/h141/index.m3u8
+http://210.210.155.35/session/07cc558c-fd49-11e8-9f02-b82a72d63267/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
@@ -134,7 +134,7 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1131.ts
+http://159.65.139.113:9595/foxmov/video.m3u8?token=A4fjxaZ_q1
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Cinema Movies
@@ -146,7 +146,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=18165913&tsum=1257310ecdd40cec051e80fecc89de25
+http://159.65.139.113:9595/foxact/video.m3u8?token=A4fjxaZ_q1
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://5.79.87.234:8278/Foxfamily/playlist.m3u8?tid=17030309&tsum=5d5b5b6d5d134a520d7ee4acad2e24cd
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
