@@ -163,7 +163,6 @@ http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/3.ts
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinema World
 http://rr.dens.tv/h/h04/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/209.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax OuterMax
@@ -198,6 +197,16 @@ http://rr2.dens.tv/s/s32/index2.m3u8
 http://rr2.dens.tv/s/s34/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",My Cinema
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 4
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 5
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
