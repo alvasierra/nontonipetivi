@@ -286,23 +286,25 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?ipt
 http://45.58.62.92:8084
 
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/2.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1316
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/3.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1315
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/4.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1314
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/5.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1313
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/6.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1312
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/7.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1311
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/8.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1310
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/9.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1309
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 
-http://www.freeiptvdaily.net:8000/live/YWsTOBjqri/freeiptvdaily.tv/10.ts
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1308
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1307
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
