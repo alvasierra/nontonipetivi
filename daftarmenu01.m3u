@@ -5,10 +5,16 @@ http://rr2.dens.tv/s/s02/index2.m3u8
 http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR
 http://rr2.dens.tv/s/s04/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR_GOJEK
+http://id1.indostreamingtv.com/live/tv115/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV
 http://rr2.dens.tv/s/s05/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV HD
+https://stream-02.sg1.dailymotion.com/dm/3/x5b99vx/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7
 http://rr2.dens.tv/s/s06/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7 HD
+http://id8.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_small1.png" group-title="Local TV",ANTV
 http://rr2.dens.tv/s/s07/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_small1.png" group-title="Local TV",NET.TV
@@ -29,10 +35,14 @@ http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=0
 http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI 3
 https://stream.sindonews.net/live/rctioke.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local TV",RCTI HD
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 1
 http://edge.okezone.com/live/globaltv.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV 2
 http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://gtv.id/images/logo-globaltv-pilihan-keluarga-hut16.png" group-title="Local TV",GLOBAL TV HD
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_small1.png" group-title="Local TV",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/logo.png" group-title="Local TV",MNCTV
@@ -45,8 +55,6 @@ http://rr2.dens.tv/s/s13/index2.m3u8
 http://rr2.dens.tv/s/s11/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jtv_small1.png" group-title="Local TV",JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="" group-title="Local TV",Dunia Lain
-http://103.122.64.33:25461/empaklopoa/11des..../910?token=GERdURcOEA0UBgVRAVAHBFACCwVVXVIDUFUCAgAEDgNVUgdVAFUKUgcWSkFFQhRQAAxtWAYaDQwDVE0VREdTRjwPURJeRAQPAAJETxRCD1gEQwgAVwwDAAFTWA8JGBRECgIXCkZUAAEDA0RPFFMeQQQTXFAOZ1NQRA0CUhMOWEEPChkSCwhtU1NZBw1SFFwXUUMeEwtLRxcIRjFjHxRwXREVQRApA1ZeVxQyIX0UShcDCEZDA0xSFwhGUAAHARQYQQVaRQoSQE4UDkQqchRKFwQZRlQMS15aXEZbFUVHFBhBD0ZvFgNBQ0RRBw5TREQPQ1EQHUBVVk1tBw5ZX1FVQAoJW0NGXBADBhZKQVtZCFwVDkBuElFTFwhGUAYGAQQWHg== 
 #EXTINF:-1 tvg-logo="http://elshintatv.co.id/images/elshintatv_logo.png" group-title="Local TV",ElshintaTV
 http://rr2.dens.tv/s/s10/index2.m3u8
 
@@ -133,9 +141,8 @@ http://rr2.dens.tv/s/s38/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",TIC
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
-http://159.65.139.113:9595/foxmov/video.m3u8?token=A4fjxaZ_q1
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Cinema Movies
@@ -208,10 +215,6 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Avava Diamond
-http://103.122.64.33:25461/empaklopoa/11des..../957?token=GERdURcOEA0UVVRVA1VSUVVXVAdSDw4MClUCBFVRBVdRUQEGXFULB1QWSkFFQhRQAAxtWAYaDQwHU00VREdTRjwPURJeRAQPAAJETxRCD1gEQwgAVwwDAAFRVgIGGBRECgIXCkZUAQcOB0RPFFMeQQQTXFAOZ1NQRA0CUhMOWEEPChkSCwhtU1NZBw1SFFwXUUMeEwtLRxcIRjFjHxRwXREVQRApA1ZeVxQyIX0UShcDCEZDA0xSFwhGUw4DBRQYQQVaRQoSQE4UDkQqchRKFwQZRlQMS15aXEZbFUVHFBhBD0ZvFgNBQ0RRBw5TREQPQ1EQHUBVVk1tBw5ZX1FVQAoJW0NGXBADBhZKQVtZCFwVDkBuElFTFwhGUAAEAgEWHg==
-#EXTINF:-1 tvg-logo="" group-title="Movies",Gold Diamond
-http://103.122.64.33:25461/empaklopoa/11des..../959?token=GERdURcOEA0UUgNUAABRDFFQAFJaCgQAVAFSBAYFBAACA1RVVAJXAwMWSkFFQhRQAAxtWAYaDQwHXU0VREdTRjwPURJeRAQPAAJETxRCD1gEQwgAVwwDAAFRVgMHGBRECgIXCkZUAAADAURPFFMeQQQTXFAOZ1NQRA0CUhMOWEEPChkSCwhtU1NZBw1SFFwXUUMeEwtLRxcIRjFjHxRwXREVQRApA1ZeVxQyIX0UShcDCEZDA0xSFwhGUwQGBxQYQQVaRQoSQE4UDkQqchRKFwQZRlQMS15aXEZbFUVHFBhBD0ZvFgNBQ0RRBw5TREQPQ1EQHUBVVk1tBw5ZX1FVQAoJW0NGXBADBhZKQVtZCFwVDkBuElFTFwhGVwAABRRJ
 
 #EXTINF:-1 tvg-logo="" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
