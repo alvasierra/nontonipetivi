@@ -306,6 +306,22 @@ http://93.190.138.205:25461/admin_184374/O8zkriFl/1308
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10
 http://93.190.138.205:25461/admin_184374/O8zkriFl/1307
 
+#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://sensei-iptv.cf:8000/live/leaksat/leaksat/1.ts
+#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://sensei-iptv.cf:8000/live/leaksat/leaksat/2.ts
+#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://sensei-iptv.cf:8000/live/leaksat/leaksat/3.ts
+#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 4
+#EXTVLCOPT:network-caching=1000
+http://sensei-iptv.cf:8000/live/leaksat/leaksat/4.ts
+#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 5
+#EXTVLCOPT:network-caching=1000
+http://sensei-iptv.cf:8000/live/leaksat/leaksat/5.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
 
