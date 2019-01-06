@@ -290,46 +290,31 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?ipt
 #EXTINF:-1 tvg-logo="" group-title="Sports",MOTOR SPORT
 http://45.58.62.92:8084
 
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 
-http://ip.avov4.us:8000/live/vVZy8zXlFI/9bOUSJfFVn/2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 
-http://ip.avov4.us:8000/live/vVZy8zXlFI/9bOUSJfFVn/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 
-http://ip.avov4.us:8000/live/vVZy8zXlFI/9bOUSJfFVn/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 
-http://ip.avov4.us:8000/live/vVZy8zXlFI/9bOUSJfFVn/5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 
-http://93.190.138.205:25461/admin_184374/O8zkriFl/1312
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 
-http://93.190.138.205:25461/admin_184374/O8zkriFl/1311
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 
-http://93.190.138.205:25461/admin_184374/O8zkriFl/1310
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 
-http://93.190.138.205:25461/admin_184374/O8zkriFl/1309
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 
-http://93.190.138.205:25461/admin_184374/O8zkriFl/1308
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10
-http://93.190.138.205:25461/admin_184374/O8zkriFl/1307
-
-#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://sensei-iptv.cf:8000/live/leaksat/leaksat/1.ts
-#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://sensei-iptv.cf:8000/live/leaksat/leaksat/2.ts
-#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 3
-#EXTVLCOPT:network-caching=1000
-http://sensei-iptv.cf:8000/live/leaksat/leaksat/3.ts
-#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 4
-#EXTVLCOPT:network-caching=1000
-http://sensei-iptv.cf:8000/live/leaksat/leaksat/4.ts
-#EXTINF:0 tvg-logo="" group-title="BEIN Alt",BEIN SPORTS 5
-#EXTVLCOPT:network-caching=1000
-http://sensei-iptv.cf:8000/live/leaksat/leaksat/5.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9022
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9021
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9020
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9019
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9018
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9017
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9016
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9015
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9014
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9013
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD11 EN 720P
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9012
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
-
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Al Quran Al Kareem
 http://rr2.dens.tv/s/s28/index2.m3u8
