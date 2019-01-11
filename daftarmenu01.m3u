@@ -387,8 +387,10 @@ http://iptv.didanurwanda.com/channel/live/ahsantv.m3u8
 http://rr2.dens.tv/s/s28/index2.m3u8
 #EXTINF:0 tvg-logo="http://www.tvislam.id/wp-content/uploads/2017/12/sunnah-1-768x230.png" group-title="SunnahTV",MEDINA LIVE
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:0 tvg-logo="http://www.tvislam.id/wp-content/uploads/2017/12/logo-rodjatv-1-300x87.png" group-title="SunnahTV",RODJA TV
+#EXTINF:0 tvg-logo="http://www.tvislam.id/wp-content/uploads/2017/12/logo-rodjatv-1-300x87.png" group-title="SunnahTV",RODJA TV 1
 http://rr2.dens.tv/s/s14/index2.m3u8
+#EXTINF:0 tvg-logo="http://www.tvislam.id/wp-content/uploads/2017/12/logo-rodjatv-1-300x87.png" group-title="SunnahTV",RODJA TV 2
+rtmp://vids.rodja.tv/live/rodja
 #EXTINF:0 tvg-logo="http://www.tvislam.id/wp-content/uploads/2017/12/logosurautv-1-300x131-2-300x131.png" group-title="SunnahTV",SURAU TV
 rtsp://119.235.249.60:1935/surautv/live
 #EXTINF:0 tvg-logo="http://www.tvislam.id/wp-content/uploads/2017/12/bVhx63vA-1-768x326.png" group-title="SunnahTV",Wesal TV
