@@ -142,13 +142,13 @@ http://rr2.dens.tv/s/s38/index2.m3u8
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Cinema Movies
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Comedy Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Cinema
