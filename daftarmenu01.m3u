@@ -156,7 +156,7 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies (arab)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
-http://159.65.139.113:9595/foxact/video.m3u8?token=A4fjxaZ_q1
+http://103.242.13.90:5555/udp/239.4.1.72:10000
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://5.79.87.234:8278/Foxfamily/playlist.m3u8?tid=17030309&tsum=5d5b5b6d5d134a520d7ee4acad2e24cd
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
