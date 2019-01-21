@@ -162,13 +162,11 @@ http://5.79.87.234:8278/Foxfamily/playlist.m3u8?tid=17030309&tsum=5d5b5b6d5d134a
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
 http://landiptv.live:8080/EDGARDO/203040/70287
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://ip.avov4.us:8000/live/vVZy8zXlFI/9bOUSJfFVn/5898.m3u8
+http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/278
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asia)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO (RO)
-http://62.210.245.97:25461/Lb2LwsigOn/sKtsn67WWkstev6/16?forumshareiptvindonesia
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits (Asia)
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinema World
