@@ -7,11 +7,15 @@ http://rr2.dens.tv/s/s03/index2.m3u8
 http://rr2.dens.tv/s/s04/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR_GOJEK
 http://id1.indostreamingtv.com/live/tv115/index.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV 1
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV 2
 http://202.80.222.171/000001/2/ch14041511545447343123/1000.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV HD
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV HD 
 https://stream-02.sg1.dailymotion.com/dm/3/x5b99vx/live-2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7 (1)
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7 (2)
 http://rr2.dens.tv/s/s06/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7 HD
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
