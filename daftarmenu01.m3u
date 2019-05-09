@@ -20,13 +20,13 @@ http://rr2.dens.tv/s/s06/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7 HD
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_small1.png" group-title="Local TV",ANTV
-http://rr2.dens.tv/s/s07/index2.m3u8
+http://get.indotv.live:9889/live/dfgd66/xcvxvx/33.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_small1.png" group-title="Local TV",NET.TV
 http://rr2.dens.tv/s/s08/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_small1.png" group-title="Local TV",NET.HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_small1.png" group-title="Local TV",KOMPAS TV
-http://rr2.dens.tv/s/s09/index2.m3u8
+http://get.indotv.live:9889/live/dfgd66/xcvxvx/45.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV
 http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV 2
