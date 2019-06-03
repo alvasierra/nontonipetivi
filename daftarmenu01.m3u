@@ -319,6 +319,33 @@ http://egyman.net:1978/abdalhemh5/abdarhem456/4876
 #EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD11 EN 720P
 http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9012
 
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 1 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197967
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 2 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197979
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 3 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197981
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 4 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197983
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 5 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197985
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 7 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197988
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 8 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197990
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 8 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197990
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 9 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197992
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 10 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197969
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 11 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/211810
+#EXTINF:-1 group-title="SPORT 2", beIN Sports 12 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197973
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
 
