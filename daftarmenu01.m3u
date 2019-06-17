@@ -164,7 +164,7 @@ http://103.242.13.90:5555/udp/239.4.1.72:10000
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
-http://landiptv.live:8080/EDGARDO/203040/70287
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asia)
@@ -180,7 +180,7 @@ http://203.153.218.26:9981/stream/channelid/960201661
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinema World
 http://rr.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
-http://its.nextleveliptv.net:8000/iceman2380/mazdamx3/40499
+http://203.153.218.26:9981/stream/channelid/51542457?ticket=F513C7F41A1BA87E9E58420A82F41C67F165E97F&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax OuterMax
 http://its.nextleveliptv.net:8000/iceman2380/mazdamx3/65699
 #EXTINF:-1 tvg-logo="" group-title="Movies",&FLIX HD
@@ -280,6 +280,8 @@ http://210.210.155.35/uq2663/h/h21/index1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/6434
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="SPORT",BEIN SPORT
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVRI Sport-HD
 http://rr2.dens.tv/s/s48/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ADSPORT1
@@ -363,13 +365,15 @@ http://rr2.dens.tv/s/s41/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Animal Planet HD
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Channel
-http://103.242.13.90:5555/udp/239.4.2.19:10000
+http://203.153.218.26:9981/stream/channelid/1962401141?ticket=E82F557BE691653B1673D8390C3DF77B160D341E&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery World HD
 http://103.242.13.90:5555/udp/239.4.1.20:10000
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",National Geographic
-http://178.128.101.58:8090/live/salome/wVTCNmvZzv/77.ts
+#EXTINF:-1 tvg-logo="https://www.oceangov.eu/wp-content/uploads/2017/10/National-Geographic-logo.png" group-title="Knowledge",National Geographic
+http://203.153.218.26:9981/stream/channelid/1159590602?ticket=E89ECEBB08187E7830CEE02569772C593D07B88C&profile=pass
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" group-title="Knowledge",National People
+http://indon.dnsq.us:9981/stream/channelid/707541297?ticket=FB568AEE1E60F53D02D022E97854DE133B474463&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="Knowledge",NatGeo Wild
-http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",CGTN Documentary
 http://rr2.dens.tv/s/s20/index2.m3u8
 
