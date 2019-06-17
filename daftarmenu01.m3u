@@ -279,9 +279,7 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 http://210.210.155.35/uq2663/h/h21/index1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bein in NBA TV
-http://194.88.107.95:6204/azmir/azmir/6434
-#EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV HD 1
-http://23.237.22.82:8086/udp/127.0.0.1:56052
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/6434
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVRI Sport-HD
 http://rr2.dens.tv/s/s48/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ADSPORT1
@@ -296,55 +294,58 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?ipt
 #EXTINF:-1 tvg-logo="" group-title="Sports",MOTOR SPORT
 http://45.58.62.92:8084
 
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD1 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4885
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD2 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4884
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD3 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4883
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD4 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4882
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD5 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4881
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD6 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4880
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD7 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4879
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD8 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4878
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD9 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4877
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD10 720P
-http://egyman.net:1978/abdalhemh5/abdarhem456/4876
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Bein Sport HD11 EN 720P
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9012
-
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 1 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197967
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 2 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197979
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 3 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197981
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 4 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197983
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 5 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197985
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 7 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197988
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 8 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197990
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 8 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197990
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 9 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197992
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 10 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197969
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 11 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/211810
-#EXTINF:-1 group-title="SPORT 2", beIN Sports 12 FHD
-http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/197973
-
-
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/127
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9022
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1913
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/128
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9021
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1914
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 3
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/129
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9020
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1915
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 4
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/130
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9019
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1916
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 5
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/132
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9018
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1917
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 6
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/133
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9017
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1918
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 7
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/134
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9016
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1919
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 8
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/135
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9015
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1920
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 9
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/186
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9014
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1921
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 10
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/187
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9013
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1922
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 11
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/188
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9012
+#http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1923
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 12
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/189
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT 13
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1694
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT NBA
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/6434
+#EXTINF:-1 aspect-ratio=4:3 tvg-logo="https://i.postimg.cc/sxBZRSvt/mnbtv.png" group-title="BEIN",BEIN SPORT NEWS
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/2567
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
 http://103.242.13.90:5555/udp/239.4.1.51:10000
