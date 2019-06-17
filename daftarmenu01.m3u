@@ -5,8 +5,8 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=00
 http://202.80.222.130/000001/2/ch15010918464887721048/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR
 http://rr2.dens.tv/s/s04/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR_GOJEK
-http://id1.indostreamingtv.com/live/tv115/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR HD
+http://203.153.218.26:9981/stream/channelid/1446651279
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV 1
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV 2
